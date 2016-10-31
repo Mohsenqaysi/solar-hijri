@@ -9,6 +9,11 @@
   "author": "Ahmed AlQahtani",
   "license": "MIT",
   "dependencies": {
-    "jalaali-js": "^1.0.0"
+    "jalaali-js": "^1.0.0",
+    "moment-hijri": "^2.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:alqahtani/solar-hijri.git"
   }
 }
