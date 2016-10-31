@@ -1,0 +1,14 @@
+{
+  "name": "solar-hijri",
+  "version": "1.0.0",
+  "description": "A Library to convert Hijri dates to Solar Hijri Dates",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ahmed AlQahtani",
+  "license": "MIT",
+  "dependencies": {
+    "jalaali-js": "^1.0.0"
+  }
+}
